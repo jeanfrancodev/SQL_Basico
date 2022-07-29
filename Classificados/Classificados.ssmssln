@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Classificados", "Classificados\Classificados.ssmssqlproj", "{8661C1EE-6F6E-4A4C-B75D-E42FD6E61239}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "rede social", "..\rede social\rede social.ssmssqlproj", "{DEE8B989-46D4-4C22-872D-9AB3DFAEEA24}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "market place", "..\market place\market place.ssmssqlproj", "{77D2D4E5-09B6-4213-8B7B-C3CB17FF5648}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "E-comerce", "..\E-comerce\E-comerce.ssmssqlproj", "{43B2219A-3CA6-49B8-B4A9-83F420A3EBB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8661C1EE-6F6E-4A4C-B75D-E42FD6E61239}.Default|Default.ActiveCfg = Default
+		{DEE8B989-46D4-4C22-872D-9AB3DFAEEA24}.Default|Default.ActiveCfg = Default
+		{77D2D4E5-09B6-4213-8B7B-C3CB17FF5648}.Default|Default.ActiveCfg = Default
+		{43B2219A-3CA6-49B8-B4A9-83F420A3EBB8}.Default|Default.ActiveCfg = Default
+		{18595829-7B73-44FA-ACC4-F9869EABAB74}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF05932-5D62-486F-9C29-FF9714C15826}
+	EndGlobalSection
+EndGlobal
